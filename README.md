@@ -32,4 +32,4 @@ Before you begin, ensure you have met the following requirements:
 7. Access documentation at `http://localhost:8080/swagger-ui/index.html` in your browser.
 
 ## Contributing
-Contributions are welcome! If you find any issues or want to contribute to this project, please feel free to submit a pull request.
+Contributions are welcome! If you find any issues or want to contribute to this project, please feel free to submit a pull request. 
