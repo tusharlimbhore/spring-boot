@@ -3,7 +3,7 @@ name: Build and Push JAR to Docker Hub
 on:
   push:
     branches:
-      - main  # Change this to your main branch name, e.g., master
+      - master
 
 jobs:
   build:
