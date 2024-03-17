@@ -30,7 +30,7 @@ jobs:
 
       - name: Tag and push Docker image
         run: |
-          docker build -t yourdockerhubusername/spring-boot-app .
-          docker push yourdockerhubusername/spring-boot-app
+          docker build -t tusharlimbhore/spring-boot .
+          docker push tusharlimbhore/spring-boot
         env:
           DOCKER_BUILDKIT: 1
