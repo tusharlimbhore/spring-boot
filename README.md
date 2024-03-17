@@ -21,13 +21,13 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation and Setup
 1. Clone the repository:
--git clone https://github.com/tusharlimbhore/spring-boot-crud.git
+- git clone https://github.com/tusharlimbhore/spring-boot-crud.git
 2. Navigate to the project directory:
--cd spring-boot-crud
+- cd spring-boot-crud
 3. Build the project using Maven:
 - mvn clean install
 4. Run the application:
--java -jar target/spring-boot-crud.jar
+- java -jar target/spring-boot-crud.jar
 6. Access the application at `http://localhost:8080` in your web browser.
 7. Access documentation at `http://localhost:8080/swagger-ui/index.html` in your browser.
 
